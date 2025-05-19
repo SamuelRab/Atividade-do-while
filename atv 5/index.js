@@ -1,4 +1,4 @@
-let saldo = 100; // Saldo simbólico inicial.
+let saldo = 550; // Saldo simbólico inicial.
 let saque; // Variável que armazena o saque.
 
 do {
